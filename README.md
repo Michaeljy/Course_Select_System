@@ -1,6 +1,8 @@
 # Course_Select_System
 Roles: school, student, curriculum, teacher
+
 Requirements:
+
 1. Create 2 schools
 2. Create 3 courses to be attended by designated schools
 3. Administrators create schools, teachers and courses
